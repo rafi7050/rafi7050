@@ -12,7 +12,7 @@ Here are some ideas to knowing me:
 - 🧰 Everyday Tools: Visual Studio Code, Py Console, Pycharm, SQLyog, Bash Script, SQL Server Management Studio
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid&show_icons=true&theme=vision-friendly-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi7050&show_icons=true&theme=vision-friendly-dark)
 
 ### MyStack
 ![Python](https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white)
